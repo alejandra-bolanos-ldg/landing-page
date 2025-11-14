@@ -4,7 +4,7 @@ Una landing page moderna para una cafetería local, desarrollada con HTML y CSS.
 
 **Estado:** En desarrollo  
 **Tecnologías:** HTML, CSS, JavaScript  
-**URL Demo:** [[Lading page]](https://alejandra-bolanos-ldg.github.io/landing-page/)
+**URL Demo:** 👉 [https://alejandra-bolanos-ldg.github.io/landing-page/](https://alejandra-bolanos-ldg.github.io/landing-page/)
 
 ## Características
 
