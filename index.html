@@ -21,7 +21,7 @@
                     <li><a href="#impacto">Impacto</a></li>
                     <li><a href="#contacto">Contacto</a></li>
                 </ul>
-                </nav>
+            </nav>
             <div class="hamburger">
                 <div class="line"></div>
                 <div class="line"></div>
@@ -168,5 +168,14 @@
     </div>
 
     <script src="assets/js/main.js"></script>
+    <!-- Script para manejar el scroll al cargar la página -->
+    <script>
+        if ('scrollRestoration' in history) {
+            history.scrollRestoration = 'manual';
+        }
+        window.onload = function() {
+            window.scrollTo(0, 0);
+        };
+    </script>
 </body>
 </html>
