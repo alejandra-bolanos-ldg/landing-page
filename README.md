@@ -1,6 +1,7 @@
 # Bogotá Beans
 
 Landing page para una cafetería de especialidad en Bogotá.
+Frontend: [https://alejandra-bolanos-ldg.github.io/landing-page/](https://alejandra-bolanos-ldg.github.io/landing-page/)
 
 ## Características
 
